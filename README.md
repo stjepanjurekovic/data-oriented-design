@@ -99,6 +99,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Cache-Line Aware Data Structures (2018)](https://accu.org/index.php/journals/2535) - accu.org
 * [Investigating Data-Oriented Design - Master Thesis (2019)](https://github.com/Per-Morten/master_project) - Per-Morten Straume
 * [The Data-Oriented Design Process for Game Development](https://doi.ieeecomputersociety.org/10.1109/MC.2022.3155108) - Jessica D. Bayliss
+* [Data-Oriented Design for Games](https://www.manning.com/books/data-oriented-design-for-games) - Nitzan Wilnai
 
 ## Code Examples
 
